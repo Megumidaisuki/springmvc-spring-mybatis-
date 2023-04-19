@@ -1,0 +1,6 @@
+com\megumi\common\ResponseResult.class
+com\megumi\service\impl\ImplUserService.class
+com\megumi\domain\User.class
+com\megumi\service\UserService.class
+com\megumi\controller\UserController.class
+com\megumi\dao\UserDao.class
